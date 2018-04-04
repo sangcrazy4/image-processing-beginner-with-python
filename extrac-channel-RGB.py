@@ -42,7 +42,7 @@ numpy_horizontal_top_3d = np.hstack((image, image_red))
 numpy_horizontal1_down_3d = np.hstack((image_green, image_blue))
 numpy_4_channel_3d = np.concatenate((numpy_horizontal_top_3d, numpy_horizontal1_down_3d), axis=0)
 
-cv2.imshow('Extec-channel-with-4D', numpy_4_channel_3d)
+cv2.imshow('Extec-channel-with-3D', numpy_4_channel_3d)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
