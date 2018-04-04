@@ -1,6 +1,7 @@
 # image-processing-beginner-with-python
 I will show you to concept of image-processing
 
-What is image?
+Content
+  - Extrac channel of color 
 
-![alt text](https://github.com/sangcrazy4/image-processing-beginner-with-python/images/Extec-channel-with-1D_screenshot.png)
+![alt text](https://raw.githubusercontent.com/sangcrazy4/image-processing-beginner-with-python/master/images/Extec-channel-with-1D_screenshot.png)
